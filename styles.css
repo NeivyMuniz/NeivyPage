@@ -1,0 +1,21 @@
+h1{border-style: hidden;
+	color: #21C7B8;
+	font-family: Impact;
+	text-align: center;}
+body{background-color:#D8D8D8;}
+p{font-family: "lucida Console","Courier New", monospace;
+	color:  #009933;
+	padding: 50px;
+	background-color: #0E2198;
+	text-align: center;
+	font-size: 20px;
+	border-width: 0px;}
+a{color: #DFF310;
+	text-decoration: none;
+	font-size: 25px;}
+body{background-color: #D8DBF0;
+margin: 100px;}
+
+img{display: block;
+margin: 0 auto;
+background-color: #D8D8D8;}
